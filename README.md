@@ -1,4 +1,4 @@
-# DiceTetris
+# DiceTetris (READ RAW FOR GRAPHICS)
 Tetris-style block dropping game, where adding dice gets you to the goal. Created using Python and Ursina Engine
 
 Goal: Get the highest possible score you can by adding dice on the board.
